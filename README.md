@@ -1,6 +1,8 @@
 # Projeto de ICD
- Projeto final de Introdução à Ciência de Dados feito no 4º período do curso de Sistemas de Informação.  
- Conteúdo abordado: __*análise exploratória dos dados, testes de hipóteses, regressão e classificação*__.  
+![Made with Python](https://img.shields.io/badge/made%20with-Python-1f425f.svg)
+
+Projeto final de Introdução à Ciência de Dados feito no 4º período do curso de Sistemas de Informação. Conteúdo abordado: __*análise exploratória dos dados, testes de hipóteses, regressão e classificação*__.  
+
+A base utilizada contém informações acadêmicas e socio-demográficas sobre alunos de 2 escolas portuguesas e foi utilizada para responder perguntas na análise exploratória, aplicação de testes de hipóteses e para predição e classificação.
  
- ---
- [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+
