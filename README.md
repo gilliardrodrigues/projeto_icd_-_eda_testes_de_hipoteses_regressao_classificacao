@@ -1,4 +1,4 @@
-# Projeto de ICD
+# Projeto de Introdução à Ciência de Dados
 ![Made with Python](https://img.shields.io/badge/made%20with-Python-1f425f.svg)
 
 Projeto final de Introdução à Ciência de Dados feito no 4º período do curso de Sistemas de Informação. Conteúdo abordado: __*análise exploratória dos dados, testes de hipóteses, regressão e classificação*__.  
